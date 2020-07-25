@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ffa4e5e-9860-4623-abc3-3871abe3a860" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dome/Store/dirNameDS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dome/Store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dome/dirName.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dome/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dome/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/bin/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/res/bin/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/tpCopyNd/util/getPath.js" beforeDir="false" afterPath="$PROJECT_DIR$/res/tpCopyNd/util/getPath.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tpCopyConfig/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tpCopyConfig/template/template1/Store/_xxxName_DS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tpCopyConfig/template/template1/Store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tpCopyConfig/template/template1/_xxxName_.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tpCopyConfig/template/template1/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tpCopyConfig/template/template1/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tpCopyConfig/template/template2/Store/_xxxName_DS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tpCopyConfig/template/template2/Store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tpCopyConfig/template/template2/_xxxName_.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tpCopyConfig/template/template2/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tpCopyConfig/template/template2/index.less" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fAMXj3AH0olfKJeDCw2TpXwlOS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ffa4e5e-9860-4623-abc3-3871abe3a860" name="默认的" comment="" />
+      <created>1595656485119</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595656485119</updated>
+      <workItem from="1595656490333" duration="708000" />
+      <workItem from="1595658243222" duration="168000" />
+      <workItem from="1595661178749" duration="434000" />
+      <workItem from="1595661821213" duration="141000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="462" y="123" key="FileChooserDialogImpl" timestamp="1595658422831">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="462" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1595658422831" />
+    <state x="0" y="0" key="FileDocumentManager.FileCacheConflict" timestamp="1595657240116">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="0" y="0" key="FileDocumentManager.FileCacheConflict/0.0.1366.738@0.0.1366.738" timestamp="1595657240116" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/dist/tpcopy.js</url>
+          <line>581</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

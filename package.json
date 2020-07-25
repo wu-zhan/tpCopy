@@ -1,10 +1,11 @@
 {
   "name": "tp-copy",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
   },
   "bin": {
     "tpcopy": "./res/bin/index.js"
@@ -12,6 +13,6 @@
   "dependencies": {
     "commander": "^2.11.0"
   },
-  "author": "wuzhan",
+  "author": "wu-zhan",
   "license": "ISC"
 }
