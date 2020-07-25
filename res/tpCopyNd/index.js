@@ -69,7 +69,7 @@ module.exports = async (_tarGetName, _templateName) => {
             }))
         })
         await Promise.all(processPro)
-        console.log(`完成${tarGetName}创建，共创建文件${copyFileTextNumber}个，修改模板${replaceTextNumber}处,修改标题${replaceTitleNumber}处`)
+        console.log(`Complete ${tarGetName} creation, a total of ${copyFileTextNumber} files were created, ${replaceTextNumber} templates were modified, and ${replaceTitleNumber} titles were modified`)
     } catch (e) {
         console.log(e)
     }

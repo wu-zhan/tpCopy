@@ -20,14 +20,13 @@ const createConfigFn = async (baseDir) => {
         try { //有起始目录
             await statPro(getCWDPath())
             // 有目录
-            return console.log('该目录已经存在，请更换名称！')
+            return console.log('The directory already exists. Please change the name.')
         } catch (e) {
             //没有起始目录，则创建
             await mkdirPro(getCWDPath())
         }
         // 生成文件树
         const fileTree = await strFileTree.createFileTree(path.join(__dirname, './initTemplate'));
-        console.dir(fileTree)
         // 共创建文件数
         let copyFileTextNumber = 0;
         const processPro = []; // 线程
@@ -48,8 +47,7 @@ const createConfigFn = async (baseDir) => {
         for (let item of processPro) {
             await item()
         }
-
-        console.log(`完成tp-copy创建，共创建文件${copyFileTextNumber}个。`)
+        console.log(`Complete the creation of tp-copy, a total of ${copyFileTextNumber} files are created.`)
     } catch (e) {
         console.log(e)
     }
@@ -65,7 +63,7 @@ const removeConfigFn = async (baseDir) => {
         } catch (e) {
             console.log(e)
             //没有起始目录，则创建
-            return console.log('Please execute the "tpcopy init" command, Create config directory.')
+            return console.log('Please execute the "tpcopy -i" command, Create config directory.')
         }
 
     } catch (e) {
